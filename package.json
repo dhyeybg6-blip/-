@@ -1,0 +1,11 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "A Minecraft bot",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^latest_version",
+    "mineflayer-pathfinder": "^latest_version",
+    "express": "^4.19.2" 
+  }
+}
